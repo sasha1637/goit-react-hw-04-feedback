@@ -1,0 +1,6 @@
+
+
+Створи компонент <Section title="">, який рендерить секцію із заголовком і дітей (children). Обгорни кожен із <Statistics> і <FeedbackOptions> у створений компонент секції.
+
+
+Винеси блок кнопок в компонент <FeedbackOptions options={} onLeaveFeedback={}>.
